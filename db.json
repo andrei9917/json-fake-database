@@ -1,6 +1,6 @@
 {
   "users": [
-    {"firstName":"Andrei", "lastName":"Tanca", "Credentials":{"email":"andrei.tanca@gmail.com", "phone":"0770123456", "password":"pass"}},
-    {"firstName":"Raul", "lastName":"Tronciu", "Credentials":{"email":"raul.tronciu@gmail.com", "phone":"0742854978", "password":"parol"}}                                                        
+    {"id": 1, "firstName":"Andrei", "lastName":"Tanca", "Credentials":{"email":"andrei.tanca@gmail.com", "phone":"0770123456", "password":"pass"}},
+    {"id": 2, "firstName":"Raul", "lastName":"Tronciu", "Credentials":{"email":"raul.tronciu@gmail.com", "phone":"0742854978", "password":"parol"}}                                                        
     ]
 }
